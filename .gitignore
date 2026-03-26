@@ -1,0 +1,11 @@
+# Compiled files
+*.o
+shell
+object/
+bin/
+
+# IDE
+.vscode/
+
+# Claude Code local config
+.claude/
